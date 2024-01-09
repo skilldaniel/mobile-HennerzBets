@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "HennerzBets",
+    "slug": "HennerzBets",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "HennerzBets"
+}
